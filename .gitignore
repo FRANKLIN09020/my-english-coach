@@ -1,0 +1,23 @@
+# Frontend
+apps/web/node_modules/
+apps/web/dist/
+apps/web/.env
+apps/web/.env.local
+
+# Backend
+apps/api/target/
+apps/api/.env
+
+# Tooling and local services
+.env
+.env.*
+!.env.example
+supabase/.temp/
+supabase/.branches/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store

@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/features/assessment/assessmentpage.tsx","./src/features/learning/learningpathcard.tsx","./src/features/learning/levelcurriculum.ts","./src/services/assessmentapi.ts","./src/styles/theme.ts","./src/types/assessment.ts"],"version":"5.7.3"}
